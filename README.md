@@ -1,5 +1,13 @@
 ### Hi, I'm Benson 👋
 
+🍚 Likes Rice </br>
+🐛 Squashes Bugs </br>
+💻 Build things </br>
+❤️ Seattle </br>
+
+<img src="https://media.giphy.com/media/hp8aL4t7CiK8oez2Pz/giphy.gif">
+
+
 <!--
 **blazergame/blazergame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
